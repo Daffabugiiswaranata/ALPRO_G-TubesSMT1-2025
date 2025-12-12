@@ -1,0 +1,2 @@
+1;Baygon;13000;15
+2;Tango rasa coklat;5000;18
